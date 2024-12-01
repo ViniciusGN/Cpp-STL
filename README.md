@@ -6,7 +6,7 @@
 This code is the intellectual property of ENSICAEN and is subject to the institution's terms and conditions.  
 Unauthorized reproduction, distribution, or use is strictly prohibited.  
 
-([question files (FR)/TP6 - Choisir le bon conteneur.png](https://github.com/ViniciusGN/Cpp-STL/blob/12b61560c1c05cf9eb717c0f8ef96f24e0f0d7a9/question%20files%20(FR)/TP6%20-%20Choisir%20le%20bon%20conteneur.png))
+![TP6 - Choisir le bon conteneur](https://github.com/ViniciusGN/Cpp-STL/blob/12b61560c1c05cf9eb717c0f8ef96f24e0f0d7a9/question%20files%20(FR)/TP6%20-%20Choisir%20le%20bon%20conteneur.png?raw=true)
 
 ---
 
