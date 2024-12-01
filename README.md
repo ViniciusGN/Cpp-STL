@@ -6,6 +6,35 @@
 This code is the intellectual property of ENSICAEN and is subject to the institution's terms and conditions.  
 Unauthorized reproduction, distribution, or use is strictly prohibited.  
 
+![Alt text](question files (FR)/TP6 - Choisir le bon conteneur.png)
+
+---
+
+## Requirements
+
+- A C++ compiler (`g++` or `clang++`)
+- `make` build tool
+
+## File Structure
+
+- **src/**: Contains the source files (`exerciceX.cpp`).
+- **build/**: Output directory for object files (`.o`) and executables.
+
+## Build
+
+To compile all available exercises, run the following command:
+
+```bash
+make
+```
+
+## Run
+
+```bash
+./built/exerciceX 
+```
+X est le chiffre du exercice que vous voulez verifiée.
+
 ---
 
 ## Questions Proposées
